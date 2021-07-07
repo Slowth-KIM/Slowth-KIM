@@ -8,7 +8,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slowth_KIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zam2695)](https://solved.ac/zam2695)
 
 
 
