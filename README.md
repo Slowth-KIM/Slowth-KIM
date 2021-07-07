@@ -21,9 +21,6 @@
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Slowth-KIM&show_icons=true&theme=tokyonight" height="200px">
 </a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slowth-KIM&layout=compact" height="200px">
-</a>
 
 <br>
 <br>
@@ -35,13 +32,7 @@
 
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slowth_KIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
+[![DOHEE KIM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slowth_KIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
