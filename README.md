@@ -7,8 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slowth-KIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slowth_KIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zam2695)](https://solved.ac/zam2695)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=zam2695)](https://solved.ac/zam2695)
 
 
 
