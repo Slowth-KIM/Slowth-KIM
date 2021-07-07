@@ -1,5 +1,5 @@
 
-[![commitcombo](http://commitcombo.com/get?user={Slowth-KIM}&theme={Ocean-mini})](https://github.com/devxb/CommitCombo)
+[![commitcombo](http://commitcombo.com/get?user=Slowth-KIM&theme=Ocean-mini)](https://github.com/devxb/CommitCombo)
 
 
 ![Slowth-KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slowth-KIM&count_private=true)
