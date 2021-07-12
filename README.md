@@ -60,7 +60,8 @@
 
 <br>
 
-[![DOHEE KIM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slowth_KIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![DOHEE KIM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OtterKIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
