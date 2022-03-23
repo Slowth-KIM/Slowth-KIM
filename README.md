@@ -26,12 +26,9 @@
 
 <hr>
 
-### One Day One Commit, BOJ
+### BOJ
 
 <br>
-
-[![commitcombo](http://commitcombo.com/get?user=Slowth-KIM&theme=Ocean-mini)](https://github.com/devxb/CommitCombo)
-
 
 
 [![Solved.ac
