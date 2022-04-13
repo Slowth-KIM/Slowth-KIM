@@ -92,6 +92,16 @@
 
 ## Projects
 
+-  [**crewcrew (진행중)**](https://github.com/kimth007kim/crewcrew) :
+
+```
+    웹 퍼블리셔 1, 웹 디자이너 1, 프론트엔드 2, 백엔드 3로 구성된 팀
+    자신의 취미 또는 학습열정을 공유할 수 있는 소규모 모임을 모집하는 커뮤니티   
+```
+<br>
+<br>
+
+
 -  [**Smart Multi plug**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) :
 
 ```
