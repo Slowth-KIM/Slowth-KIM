@@ -4,6 +4,15 @@
 <br>
 <br>
 
+### :bulb: Resume
+
+<a href="https://stone-hose-b27.notion.site/DOHEE-KIM-be01ed24ce5748c5bea2bc926061c9c5">
+<img height = "30px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
 ### ⚒ My Tech Stack ⚒
 
 
@@ -17,7 +26,11 @@
   <img height = "30px" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp 
   <img height = "30px" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
   <img height = "30px" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>&nbsp 
-   <img height = "30px" src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>&nbsp 
+   <img height = "30px" src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>&nbsp
+  <img height ="30px" src = "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">&nbsp
+  <img height ="30px" src = "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">&nbsp
+  <img height ="30px" src = "https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp
+  <?
 </a>
 
 
