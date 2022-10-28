@@ -20,21 +20,36 @@
 
 <a href="#">
   <img height = "30px" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
-  <img height = "30px" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
-  <img height = "30px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
-  <img height = "30px" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
+  <img height = "30px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp 
+  <img height = "30px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp 
+  <img height = "30px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp 
   <img height = "30px" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp 
-  <img height = "30px" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
-  <img height = "30px" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>&nbsp 
+  <img height = "30px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp 
+  <img height = "30px" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>&nbsp 
    <img height = "30px" src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>&nbsp
-  <img height ="30px" src = "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">&nbsp
   <img height ="30px" src = "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">&nbsp
   <img height ="30px" src = "https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp
   <?
 </a>
 
+<br>
+<br>
+<br>
+
+
+#### ⚒ My Tech Stack(Learing) ⚒
 
 <br>
+
+<a href="#">
+  <img height = "30px" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>&nbsp 
+  <img height = "30px" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>&nbsp 
+  <img height = "30px" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp 
+ 
+</a>
+
+
+
 <br>
 
 <hr>
