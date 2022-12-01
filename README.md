@@ -45,7 +45,7 @@
   <img height = "30px" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>&nbsp 
   <img height = "30px" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>&nbsp 
   <img height = "30px" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp 
- 
+  <img height = "30px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp 
 </a>
 
 
