@@ -6,7 +6,7 @@
 
 ### :bulb: Resume
 
-<a href="https://stone-hose-b27.notion.site/DOHEE-KIM-ddb7397be44c4cc68acbae4d520d53e5" target="_blank">
+<a href="https://rt-slowth-b58.notion.site/DOHEE-KIM-ddb7397be44c4cc68acbae4d520d53e5" target="_blank">
 <img height = "30px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
