@@ -97,12 +97,6 @@
 <br>
 
 
-### My Record of Study
-
-<br>
-
-https://github.com/orgs/Interesting-study/repositories
-
 
 <!--
 **Slowth-KIM/Slowth-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
