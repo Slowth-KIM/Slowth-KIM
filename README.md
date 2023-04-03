@@ -91,6 +91,7 @@
 <br>
 
 [![DOHEE KIM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OtterKIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slowth-KIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
