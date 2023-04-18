@@ -4,14 +4,14 @@
 <br>
 <br>
 
-<!-- ### :bulb: Resume
+### :bulb: Resume
 
 <a href="https://rt-slowth-b58.notion.site/DOHEE-KIM-403be4cbb58a4bd99692d1b8cc2d0702" target="_blank">
 <img height = "30px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
 <br>
-<br> -->
+<br>
 
 ### ⚒ My Tech Stack ⚒
 
