@@ -5,13 +5,13 @@
 **`👩🏻‍💻 Brief`**
 - 👋 탐구하며 성장하는 개발자 김도희입니다.  
 - 배움은 선택의 폭을 넓힐 수 있다는 것을 알기에 즐깁니다.
-- 백엔드 개발자로 근무하고 있고 주력 언어는 Java를 사용합니다.  
+- 백엔드 개발자로 근무하고 있고 주력 언어는 Java(Kotlin), Python을 사용합니다.  
 - 백엔드, 프론트엔드, 인프라 등 여러 분야의 기술스택을 끊임없이 학습하며 다양한 도메인과 요구사항에 맞는 좋은 서비스를 구현하기 위해 노력합니다.
 - 객체지향 및 테스트 주도 개발, 도메인 주도 개발 등에도 관심이 많습니다.
 
 **`💼 Experience`**
-- Monolith : BackEnd Developer  (Apr 2023 ~ current)  
-- Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
+- spendit : BackEnd Developer  (Apr 2023 ~ current)  
+- Eximbay  : Software Developer (May 2022 ~ Mar 2023)  
 
 **`📞 Email & Blog `**
 
