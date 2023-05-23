@@ -45,10 +45,10 @@
 </p>
 
 
-<h3 align="center">✏️ Studying Stack ✏️</h3>
+<!-- <h3 align="center">✏️ Studying Stack ✏️</h3>
+ -->
 
-
-<p align="center"> Techs that I've Studyed</p>
+<!-- <p align="center"> Techs that I've Studyed</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp 
@@ -64,7 +64,7 @@
   <br>
 </p>
   
-<br>
+<br> -->
 
 <br>
 
