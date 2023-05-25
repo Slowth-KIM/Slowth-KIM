@@ -19,7 +19,7 @@
   <a href="https://rt-slowth-dev.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=for-the-badge&logoColor=white&link=https://rt-slowth-dev.tistory.com/"/></a>&nbsp
   <a href="mailto:rt.slowth@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=rt.slowth@gmail.com"/></a>&nbsp
-  <a href="https://rt-slowth-b58.notion.site/27-Backend-Developer-403be4cbb58a4bd99692d1b8cc2d0702)">
+  <a href="https://rt-slowth-b58.notion.site/27-Backend-Developer-403be4cbb58a4bd99692d1b8cc2d0702">
     <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
 </p>
 
