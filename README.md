@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
 </p>
 
+**`🍀 Daily BaekJoon`**   
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zam2695)](https://solved.ac/zam2695/)
+
 --- 
 
 
@@ -85,4 +89,3 @@
 
 
 <br>
-
