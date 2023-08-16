@@ -10,7 +10,7 @@
 - 객체지향 및 테스트 주도 개발, 도메인 주도 개발 등에도 관심이 많습니다.
 
 **`💼 Experience`**
-- spendit : BackEnd Developer  (Apr 2023 ~ current)  
+- spendit : BackEnd Developer  (Apr 2023 ~ Aug 2023)  
 - Eximbay  : Software Developer (May 2022 ~ Mar 2023)  
 
 **`📞 Email & Blog `**
