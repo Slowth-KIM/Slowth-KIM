@@ -3,20 +3,23 @@
 ---  
 
 **`👩🏻‍💻 Brief`**
-- 👋 탐구하며 성장하는 개발자 김도희입니다.  
-- 배움은 선택의 폭을 넓힐 수 있다는 것을 알기에 즐깁니다.
-- 백엔드 개발자로 근무하고 있고 주력 언어는 Java(Kotlin), Python을 사용합니다.  
-- 백엔드, 프론트엔드, 인프라 등 여러 분야의 기술스택을 끊임없이 학습하며 다양한 도메인과 요구사항에 맞는 좋은 서비스를 구현하기 위해 노력합니다.
-- 객체지향 및 테스트 주도 개발, 도메인 주도 개발 등에도 관심이 많습니다.
+- 👋 재밌는 거 잘하고 싶은 개발자 김도희입니다.  
+- 대용량 데이터 분석을 통해 유의미한 인사이트를 도출하는 과정과 이를 파이프라인화 하는 과정이 재밌습니다.
+- 로직과 시스템이 코드를 통해 유기적으로 결합되어 가는 과정을 찾아내는 것이 재밌습니다.
+- 주력 언어는 Python, Java 입니다.
+  - 다른 언어를 배우는데 거부감은 없습니다.  
+- 처음하는 일도 어떻게든 결과를 내보려고 열심히 탐구합니다.  
+- 데이터 엔지니어링, 객체지향에 관심이 많습니다.
 
 **`💼 Experience`**
+- Ktown4u : Data Engineer | Backend Developer (Aug 2023 ~ now)
 - spendit : BackEnd Developer  (Apr 2023 ~ Aug 2023)  
 - Eximbay  : Software Developer (May 2022 ~ Mar 2023)  
 
 **`📞 Email & Blog `**
 
 <p align="left">
-  <a href="https://rt-slowth-dev.tistory.com/"><img src="https://img.shields.io/badge/Blog-0AC18E?style=for-the-badge&logoColor=white&link=https://rt-slowth-dev.tistory.com/"/></a>&nbsp
+  <a href="https://medium.com/@rt.slowth"><img src="https://img.shields.io/badge/Blog-0AC18E?style=for-the-badge&logoColor=white&link=https://rt-slowth-dev.tistory.com/"/></a>&nbsp
   <a href="mailto:rt.slowth@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=rt.slowth@gmail.com"/></a>&nbsp
   <a href="https://rt-slowth-b58.notion.site/27-Backend-Developer-403be4cbb58a4bd99692d1b8cc2d0702">
