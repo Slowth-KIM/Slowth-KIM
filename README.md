@@ -12,7 +12,8 @@
 - 데이터 엔지니어링, 객체지향에 관심이 많습니다.
 
 **`💼 Experience`**
-- Ktown4u : Data Engineer | Backend Developer (Aug 2023 ~ now)
+- Toss Securites : Data Engineer (March 2025 ~ now)
+- Ktown4u : Data Engineer | Backend Developer (Aug 2023 ~ March 2025)
 - spendit : BackEnd Developer  (Apr 2023 ~ Aug 2023)  
 - Eximbay  : Software Developer (May 2022 ~ Mar 2023)  
 
